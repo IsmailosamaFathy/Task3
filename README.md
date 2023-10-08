@@ -24,6 +24,7 @@ that it will be implemented in the sub classes & two getters to read data of the
 7- Finally we make a for loop to print the output
 8- How will we pass the initiation data using constructor ? 
 each class has its own constructor .In the diagram below showing how data is passed 
+
 for Manufacture 
 ICEV, BEV, HybridV >>>>>>> vechicle >>>>>>> Manufacture.
 
